@@ -1,12 +1,5 @@
 import type { Metadata } from "next";
-import {
-  Geist,
-  Geist_Mono,
-  Roboto,
-  Jersey_15,
-  Jersey_10,
-  Electrolize,
-} from "next/font/google";
+import { Roboto, Jersey_15, Jersey_10, Electrolize } from "next/font/google";
 import "./globals.css";
 
 const roboto = Roboto({
